@@ -82,4 +82,4 @@ android.permission.CAMERA – Required for ARCore to access the device camera.
 
 🧑‍💻 Author
 Abhirup Chakraborty
-Final Year BTech, NIT Silchar
+3rd Year BTech, NIT Silchar
